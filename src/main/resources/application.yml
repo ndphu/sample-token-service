@@ -1,0 +1,6 @@
+server:
+  port: 9001
+
+token-service:
+  secret-key: c2VjcjN0
+  time-to-live: 900
